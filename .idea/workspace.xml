@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6549ecf6-a1df-4517-bb8a-a7114414153b" name="Default Changelist" comment="" />
+    <list default="true" id="6549ecf6-a1df-4517-bb8a-a7114414153b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +26,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/contacts/add_contact.blade.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="61">
@@ -33,11 +35,23 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/readme.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="364">
+                    <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/database/migrations/2019_04_13_221408_create_contacts_table.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="476">
-                  <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+                  <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
@@ -80,7 +94,7 @@
             <entry file="file://$PROJECT_DIR$/resources/views/contacts/update_contact.blade.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="364">
-                  <caret line="47" column="168" lean-forward="true" selection-start-line="47" selection-start-column="168" selection-end-line="47" selection-end-column="195" />
+                  <caret line="47" column="168" selection-start-line="47" selection-start-column="168" selection-end-line="47" selection-end-column="195" />
                 </state>
               </provider>
             </entry>
@@ -89,7 +103,7 @@
             <entry file="file://$PROJECT_DIR$/routes/web.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="513">
-                  <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+                  <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -152,6 +166,7 @@
         <option value="$PROJECT_DIR$/database/migrations/2019_04_13_221408_create_contacts_table.php" />
         <option value="$PROJECT_DIR$/database/seeds/ContactsSeederTable.php" />
         <option value="$PROJECT_DIR$/resources/views/contacts/add_contact.blade.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -333,18 +348,18 @@
       <updated>1555190024270</updated>
       <workItem from="1555190025591" duration="1228000" />
       <workItem from="1555191693764" duration="11366000" />
-      <workItem from="1555238686339" duration="40890000" />
+      <workItem from="1555238686339" duration="41384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53484000" />
+    <option name="totallyTimeSpent" value="53978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17315437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17315437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -360,7 +375,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.72343326" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.72343326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -578,7 +593,7 @@
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -599,7 +614,7 @@
     <entry file="file://$PROJECT_DIR$/resources/views/contacts/update_contact.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="47" column="168" lean-forward="true" selection-start-line="47" selection-start-column="168" selection-end-line="47" selection-end-column="195" />
+          <caret line="47" column="168" selection-start-line="47" selection-start-column="168" selection-end-line="47" selection-end-column="195" />
         </state>
       </provider>
     </entry>
@@ -621,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_04_13_221408_create_contacts_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -650,6 +665,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
           <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="364">
+            <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
